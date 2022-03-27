@@ -1,0 +1,8 @@
+.env
+.env.bak
+*.bak
+.idea/
+__pycache__/
+build/
+dist/
+*.spec
